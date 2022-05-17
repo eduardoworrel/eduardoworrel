@@ -1,6 +1,5 @@
-
-![eduardoworrel's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoworrel&theme=radical&include_all_commits=true&count_private=true)
-
-
-![eduardoworrel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoworrel&layout=compact&langs_count=9&theme=radical&include_all_commits=true&count_private=true)
-
+<div align="center">
+  <a href="https://github.com/eduardoworrel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoworrel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoworrel&layout=compact&langs_count=9&theme=dracula"/>
+</div>
